@@ -1,0 +1,14 @@
+Manuel da Silva *1977 +2011 [3] 
+M Maria da Silva +2009		
+P Joaquim Oliveira da Silva 	
+MM Joaquina *1930 				
+MP [45] 						
+FOTO f.jpg
+HIST h1.tex
+CC 2000 [2] 					
+Maria Felisbina *1980 [8] 		
+F Serafim da Silva *2004 		
+F Ana da Silva *2006 [7]{ 		
+	FOTO f1.jpg 				
+	HIST h1.tex
+}

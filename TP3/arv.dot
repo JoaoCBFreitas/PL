@@ -1,0 +1,19 @@
+digraph{
+rankdir=UD
+I3->"Manuel da Silva";
+aut1->I3;
+aut1->"Maria da Silva";
+aut2->I3;
+aut2->"Joaquim Oliveira da Silva";
+aut3->I3;
+aut3->"Joaquina";
+I45->I3;
+I3->F2;
+I8->F2;
+I8->"Maria Felisbina";
+F2->aut4;
+aut4->"Serafim da Silva";
+I7->"Ana da Silva";
+F2->I7;
+
+}
